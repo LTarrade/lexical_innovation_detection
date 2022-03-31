@@ -75,6 +75,7 @@ This repository contains the scripts to reproduce the method of detecting and ca
 	- **Input** : 
 
 		- *--path_df* : Path to the dataframe containing the tokens that appeared in the selected period with their usage rates per month. 
+		- *--path_users* : Path to the dataframe containing the values of the network variables for each user.
 		- *--path_out* : Path to the directory that will contain the output. 
 		- *--path_idByForm* : Path to the json file containing the identifiers of words.
 		- *--path_idByUser* : Path to the json file containing the identifiers of users.
